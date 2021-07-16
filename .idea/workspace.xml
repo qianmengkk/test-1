@@ -19,15 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd70fa9-fede-4762-9b69-ba78837acddc" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test.php" afterDir="false" />
-    </list>
+    <list default="true" id="dbd70fa9-fede-4762-9b69-ba78837acddc" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -54,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626430074876</updated>
       <workItem from="1626430076274" duration="56000" />
+      <workItem from="1626433583042" duration="528000" />
     </task>
     <servers />
   </component>
@@ -70,6 +69,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="767" y="240" key="NewPhpClassDialog" timestamp="1626430097456">
