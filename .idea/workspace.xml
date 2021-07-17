@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd70fa9-fede-4762-9b69-ba78837acddc" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test-1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -64,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1626430074876</updated>
       <workItem from="1626430076274" duration="56000" />
-      <workItem from="1626433583042" duration="882000" />
+      <workItem from="1626433583042" duration="1457000" />
+      <workItem from="1626483693974" duration="242000" />
     </task>
     <servers />
   </component>
@@ -84,6 +90,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="719" y="432" key="ComposerInitDialogKey" timestamp="1626434189166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="432" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1626434189166" />
     <state x="767" y="240" key="NewPhpClassDialog" timestamp="1626430097456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
